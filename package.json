@@ -1,0 +1,15 @@
+{
+  "name": "discord-deck",
+  "version": "1.0.0",
+  "description": "Botonera para discord :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@federoldan._ - @santimangone",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "opusscript": "0.0.8"
+  }
+}
